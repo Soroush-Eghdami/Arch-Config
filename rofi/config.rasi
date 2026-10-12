@@ -1,0 +1,11 @@
+configuration {
+    modes: "drun,run";
+    show-icons: true;
+    icon-theme: "Papirus-Dark";
+    drun-display-format: "{name}";
+    display-drun: "Apps";
+    display-run: "Run";
+}
+
+
+@theme "tokyo-night"
